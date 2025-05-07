@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: "About(Beta)"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the Nveloper's Note.
+최준원의 개발 노트에 오신 걸 환영합니다.
+崔埈源ノ 開發 ノト恚 來了ル 歡迎行二跢。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+次 文書垠 理算府和 內事府ノ 合作以 作了跢。
+本 資料ノ 結成恚 對之 根據垠
+造則 第 25理決1, 25內決1恚序 確認行數有二跢。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+구현물 및 이력은 이곳에서 볼 수 있습니다.
+https://github.com/nveloper
 
-
-[jekyll-organization]: https://github.com/jekyll
+Deployed on May 7th 2025
