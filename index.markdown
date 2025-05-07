@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
+banner: "/assets/images/banners/General Wallpaper.jpg"
+heading: "Nveloper's Note"
+subheading: '보고 배운 것들을 기록합니다.'
 ---
