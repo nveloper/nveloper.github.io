@@ -22,7 +22,7 @@ title: "Nveloper's Note"
 email: nveloper@gmail.com
 banner_image: "/assets/images/banner/General Wallpaper"
 description: >- # this means to ignore newlines until "baseurl:"
-  Nveloper's Note, A blog where useful informations written.
+  Nveloper's Note, A blog with my story.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nveloper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
