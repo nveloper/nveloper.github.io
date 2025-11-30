@@ -5,7 +5,7 @@ subtitle: "Socks5 서버를 활용하여 UDP 패킷까지 넘기기"
 author: Steven
 categories: Server
 banner: 
-    image: assets/images/banners/HA Banner.png
+    image: assets/images/banners/thumbnail/041.png
 tags: [Network, Mobile]
 ---
 
